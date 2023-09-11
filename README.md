@@ -7,3 +7,11 @@ In this project, one of the classic puzzle games, Tetris, has been recreated by 
 
 ## IN GAME PICTURE
 ![IN GAME PICTURE](https://github.com/ecagri/TETRIS/assets/101584509/04fd71e2-9cd6-4879-8fce-6935b4ac2df8)
+
+## HOW TO PLAY
+You can
+- move Tetromino right by right arrow.
+- move Tetromino left by left arrow.
+- move Tetromino bottom by down arrow.
+- reset the game by clicking Try Again button.
+- stop the game by clicking Stop button.
