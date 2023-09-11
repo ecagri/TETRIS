@@ -13,5 +13,6 @@ You can
 - move Tetromino right by right arrow.
 - move Tetromino left by left arrow.
 - move Tetromino bottom by down arrow.
+- rotate Tetromino 90 degree by space.
 - reset the game by clicking Try Again button.
 - stop the game by clicking Stop button.
